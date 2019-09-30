@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ItemCollection>
+	<Items>
+
+		<Item name="Adam1">
+			<Damage>60</Damage>
+			<Durability>100</Durability>
+		</Item>
+
+		<Item name="Adam2">
+			<Damage>10</Damage>
+			<Durability>80</Durability>
+		</Item>
+
+		<Item name="Adam3">
+			<Damage>20</Damage>
+			<Durability>50</Durability>
+		</Item>
+
+	</Items>
+
+</ItemCollection>
